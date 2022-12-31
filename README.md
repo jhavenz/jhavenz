@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Jhavenz GitHub stats](https://github-readme-stats.vercel.app/api?username=jhavenz&count_private=true&show_icons=true&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhavenz&layout=compact&langs_count=10)
+
 <!--
 **jhavenz/jhavenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
