@@ -1,5 +1,7 @@
 ### Hello from Las Vegas! 👋
 
+Most of the work I do these days gets pushed up to Bitbucket, but when I have some free time I still push a bit of work up to Github.
+
 ![Jhavenz GitHub stats](https://github-readme-stats.vercel.app/api?username=jhavenz&count_private=true&show_icons=true&langs_count=10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhavenz&layout=compact&langs_count=10)
 
