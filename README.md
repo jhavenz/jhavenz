@@ -1,8 +1,10 @@
-### Hello from Las Vegas! 👋
+### Hello from Vegas
 
-Check out my site [here](https://jhavens.tech).
+[My SIte](https://jhavens.tech)
 
-My Github profile for work is [here](https://github.com/jhavens-rcn).
+[GitHub Work Profile](https://github.com/jhavens-rcn)
+
+[LinkedIn](https://www.linkedin.com/in/jonathan-havens-896579159/)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhavenz&theme=default)
 
