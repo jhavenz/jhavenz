@@ -1,10 +1,18 @@
 ### Hello from Las Vegas, NV
 
-[My SIte](https://jhavens.tech)
-
-[GitHub Work Profile](https://github.com/jhavens-rcn)
+[My Site](https://jhavens.tech)
 
 [LinkedIn](https://www.linkedin.com/in/jonathan-havens-896579159/)
+
+[GitHub For Work](https://github.com/jhavens-rcn)
+
+### Recent Open Source
+
+[Daemon8](https://daemon8.ai)
+
+[Phalanx PHP](https://phalanx-php.com)
+
+---
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhavenz&theme=default)
 
