@@ -4,8 +4,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/jonathan-havens-896579159/)
 
-[GitHub For Work](https://github.com/jhavens-rcn)
-
 ### Recent Open Source
 
 [Daemon8](https://daemon8.ai)
