@@ -1,14 +1,12 @@
-### Hello from Las Vegas, NV
+Hello from Las Vegas, NV! I dable ..this and that. 
 
-[My Site](https://jhavens.tech)
-
-[LinkedIn](https://www.linkedin.com/in/jonathan-havens-896579159/)
-
-### Recent Open Source
+**Recent OSS:**
 
 [Daemon8](https://daemon8.ai)
 
 [Phalanx PHP](https://phalanx-php.com)
+
+[Ripht PHP SAPI](https://github.com/jhavenz/ripht-php-sapi)
 
 ---
 
